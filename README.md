@@ -1,3 +1,3 @@
 # beacademy-devstart-gitgithub
 
-Principais Comendos de Git
+Principais Comandos de Git
